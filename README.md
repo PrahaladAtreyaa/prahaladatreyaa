@@ -1,4 +1,4 @@
-## Hi there 👋
+# About me
 
 - 🔭 I’m currently working on Generative AI models, back end software development, ML models
 - 🌱 I’m currently learning transformer architectures, video LLMs, small language models, bioinformatics, personalzied medicine and AI agents.
